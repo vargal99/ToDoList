@@ -1,7 +1,7 @@
 # ToDoList
 - ToDoList app
 - Kotlin
-- SQLite
+- Room
 - Fragments
 - Animations
 
